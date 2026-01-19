@@ -72,14 +72,23 @@ Steps:
 
 **3.** Evaluate accuracy on test data
 
-**Output Example:**
+**Output:**
 
 
 
 ```bash
-  Test Accuracy: ~0.80 – 0.90
+  Test Accuracy: 0.80
 ```
 (Accuracy may vary slightly due to randomness)
+#
+**Graph Output:**
+
+![image](https://github.com/rajkumar81720/Ardent_ML_Internship/blob/main/download.png?raw=true)
+
+**Features:** ['sepal length (cm)', 'sepal width (cm)']
+
+**Classes:** ['setosa' 'versicolor' 'virginica']
+
 #
 ## 🧠 **Learning Concept Reminder**
 Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;Example
