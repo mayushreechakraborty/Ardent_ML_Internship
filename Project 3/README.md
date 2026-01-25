@@ -100,6 +100,8 @@ plt.scatter(cluster_data[:, 0], cluster_data[:, 1])
 ```
 
 ---
+![image]()
+
 
 ## 📈 Results & Insights
 
