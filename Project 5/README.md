@@ -67,9 +67,9 @@ A bar chart is used to show the distribution of:
 
 This helps in understanding class imbalance.
 
----
+![image](https://github.com/mayushreechakraborty/Ardent_ML_Internship/blob/f7c1612012d2f145f072f485221c763b303fc720/Project%205/Screenshot%202026-01-25%20205448.png)
 
-![image]()
+---
 ## 🧪 Sample Test Messages
 
 **Input Messages:**
@@ -81,8 +81,9 @@ This helps in understanding class imbalance.
 - `1` → Spam  
 - `0` → Ham  
 
+![image](https://github.com/mayushreechakraborty/Ardent_ML_Internship/blob/f7c1612012d2f145f072f485221c763b303fc720/Project%205/download%20(2).png)
+
 ---
-![image]()
 ## 🛠️ Technologies Used
 - Python 🐍
 - Pandas
