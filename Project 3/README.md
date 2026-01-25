@@ -102,7 +102,7 @@ plt.scatter(cluster_data[:, 0], cluster_data[:, 1])
 ---
 ![image](https://github.com/mayushreechakraborty/Ardent_ML_Internship/blob/4b43ea3524f96325511d11b8ceabeeec1e704460/Project%203/download.png)
 
-![image]()
+![image](https://github.com/mayushreechakraborty/Ardent_ML_Internship/blob/91fc3a2e16118cd2c120fd03d9b694cf7e6c8fc1/Project%203/download%20(1).png)
 
 
 
