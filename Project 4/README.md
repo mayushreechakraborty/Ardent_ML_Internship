@@ -55,6 +55,7 @@ Displays the optimal parameters and final accuracy of the tuned model.
 
 ---
 
+![image](https://github.com/mayushreechakraborty/Ardent_ML_Internship/blob/73f3ac4eeefbc0480ba736ca242956a7bf94f48b/Project%204/Screenshot%202026-01-25%20203725.png)
 
 ## 📈 Expected Results
 
