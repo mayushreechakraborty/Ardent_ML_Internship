@@ -90,7 +90,7 @@ The confusion matrix visually represents:
 This helps in understanding how well the model detects fraud.
 
 
-![image]()
+![image](https://github.com/mayushreechakraborty/Ardent_ML_Internship/blob/26d35d3efab72533cdfe21fb86ac6bcd15e132f4/Final%20Project/Screenshot%202026-01-28%20202012.png)
 ![image](https://github.com/mayushreechakraborty/Ardent_ML_Internship/blob/5d720b179e92753dacffe122692acf9c01322dc6/Final%20Project/download%20(3).png)
 
 ---
